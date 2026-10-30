@@ -32,4 +32,4 @@ I'm a passionate software engineer with a strong focus on building responsive, r
 ### 📫 Connect with me
 - **Portfolio:** [minse-project.vercel.app](https://minse-project.vercel.app)
 <!-- Silakan tambahkan tautan LinkedIn atau Email Anda di bawah ini -->
-- **Email:** your.email@example.com
+- **Email:** minaminnn143@gmail.com
